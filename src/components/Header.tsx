@@ -40,9 +40,9 @@ const Header: React.FC = () => {
       >
         <Divider my="sm" />
         <Title order={2}>
-          TikTok
+          sss
           <Text component="span" color="grape">
-            Save
+            TikTok
           </Text>
         </Title>
         <Text>{headerData.subTitle}</Text>
