@@ -24,9 +24,9 @@ const Header: React.FC = () => {
   return (
     <Group position="apart" mt="md">
       <Anchor underline={false} size={30} variant="text" weight="bold">
-        TikTok
+        Sss
         <Text component="span" color="grape">
-          Save
+          Tiktok
         </Text>
       </Anchor>
 
